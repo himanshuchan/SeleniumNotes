@@ -57,4 +57,5 @@
 	- **Scalability**: Makes the framework easier to maintain and scale.
 	- **Centralized control**: Any changes in test setup (e.g browser settings) can be applied globally from one class.
 	- **Foundation for test execution**: Acts as a base for all test classes.
--  
+-  What is ActionDriver class?
+	- The ActionDriver class acts as a custom utility layer, designed to handle common browser interactions more efficiently. It simplifies and enhances WebDriver functionalities by adding additional features like explicit waits and error handling, ensuring robust and reusable code. 
