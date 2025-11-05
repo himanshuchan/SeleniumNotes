@@ -1,0 +1,16 @@
+- [https://the-internet.herokuapp.com/](https://the-internet.herokuapp.com/)
+- Playwrite with js￼[https://www.youtube.com/watch?v=pq20Gd4LXeI](https://www.youtube.com/watch?v=pq20Gd4LXeI)
+- [https://www.youtube.com/@aceautomationacademy6926/videos](https://www.youtube.com/@aceautomationacademy6926/videos)
+- [https://www.youtube.com/@tech_with_jatin/videos](https://www.youtube.com/@tech_with_jatin/videos)
+- [https://www.youtube.com/watch?v=fHBd70ZEV7Q&t=43s](https://www.youtube.com/watch?v=fHBd70ZEV7Q&t=43s)
+- [https://www.hyrtutorials.com/search/label/Java](https://www.hyrtutorials.com/search/label/Java)
+- [https://theautomationzone.blogspot.com/search/label/selenium%20practice%20page](https://theautomationzone.blogspot.com/search/label/selenium%20practice%20page)
+- [Complete Xpath from Basic to Advance | 14 Xpath Function | All Xpath AXES | Xpath tutorial](https://www.youtube.com/watch?v=NhG__BL8zFo)
+- [https://www.youtube.com/@theqaguy96/videos](https://www.youtube.com/@theqaguy96/videos)
+- [https://www.youtube.com/watch?v=QQvlxcq6TDc](https://www.youtube.com/watch?v=QQvlxcq6TDc)
+- [Complete Java Collections Framework in 1 Video | Java Collections Framework in one shot](https://www.youtube.com/watch?v=OQvOx5q0D2A) 🎯
+- [https://www.youtube.com/watch?v=t5CIHGfNirY](https://www.youtube.com/watch?v=t5CIHGfNirY)
+- [https://github.com/CodeAvenger100/amazon-cucumber-framework](https://github.com/CodeAvenger100/amazon-cucumber-framework)
+- [Java program to find Factorial of a Number || Using Eclipse || Dry Run || Explained In HINDI](https://www.youtube.com/watch?v=LGVIQoFU-qY&list=PLxD77px6418VxsaDvJ6q8CmGtN3JUy-ub)
+- [https://www.youtube.com/@tech_with_jatin/playlists](https://www.youtube.com/@tech_with_jatin/playlists)
+-

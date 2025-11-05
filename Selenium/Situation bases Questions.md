@@ -1,0 +1,3 @@
+- You're pressed for time on a project.How do you decide which software testing taks to prioritize?
+    - While doing testing, I always took that ticket which is having priority. Priority always decide by Product Owner
+-

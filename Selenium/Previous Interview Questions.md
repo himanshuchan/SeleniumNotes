@@ -1,0 +1,62 @@
+==#automationtesting== Interview question for 4-6 YOE  
+Company- publicis sapient  
+First Round: Technical 30min  
+1. Intro about yourself  
+2. ⁠Fluent wait syntax  
+3. ⁠Explicit and implicit wait  
+4. ⁠findElements and findElement  
+5. ⁠programs on String Manipulation, Hashmap  
+6. ⁠difference between list, set, map and usage in framework  
+7. ⁠Api response codes  
+8. ⁠RestAssured post request syntax example  
+9. ⁠difference between selenium 3.0 and 4.0 version  
+10. ⁠basic sql queries  
+11. ⁠cross browser testing  
+12. ⁠Extent reports  
+13. ⁠Cucumber - how to run test cases parallely without testng being integrated
+ 
+Second Round: Technical 1hr 40 min  
+1. Introduction about yourself  
+2. ⁠difference between static and instance  
+3. ⁠oops concepts and usage in current framework  
+4. ⁠ what are the reusable methods or implementation done in framework by me  
+5. For⁠ Coding - they will provide a n online compiler link separately for executing the programs  
+Program on how to create treemap and print the values  
+Program on a given input string to print the letters, digits, special char separately as output  
+6. Writing Xpaths in flipkart website  
+7. ⁠what is dynamic webtable and how to write xpaths for it  
+8. ⁠questions on waits  
+9. ⁠what is garbage collector and how it is invoked in the script  
+10. ⁠use of cucumberoptions  
+11. ⁠cucumber framework explanation  
+12. Selenium Code for ⁠switching to required window and close it then come back to the default window  
+13. ⁠explain exceptions faced during execution  
+14. ⁠what is Apache POI  
+15. ⁠try, catch, finally  
+16. ⁠mouse hover actions  
+17. ⁠git commands  
+18. ⁠STLC  
+19. ⁠jenkins integration and setting up ci/cd pipeline  
+20. Testing strategies ⁠  
+21. What ⁠defect clustering, pesticide paradox, testing pyramid  
+22. ⁠agile methodology and ceremonies  
+23. ⁠bug lifecycle  
+24. ⁠maven commands  
+25. ⁠RestAssured API Assert syntax  
+26. ⁠regression testing
+ 
+Third: Managerial Round 40 min  
+1. Self intro  
+2. ⁠what makes one a good Quality tester  
+3. ⁠risk based testing, performance testing  
+4. ⁠scenario and behavioural based questions  
+5. ⁠what are the reasons that can cause a test case to fail  
+6. ⁠when jobs are scheduled in jenkins and next day it fails due to unkown reasons. What would one do to self heal automatically  
+7. ⁠what are the ways to complete exexution where there are more numb of cases and less time  
+8. ⁠negative scenario for an e-commerce domain  
+9. ⁠application architecture of current proj ( front end, back end, third party tools in-between)  
+10. ⁠what are non func testing explain
+
+-   
+    
+-

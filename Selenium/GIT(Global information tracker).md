@@ -1,0 +1,4 @@
+- GIT is a version control system that helps track changes in the code. It is free and open source.￼GIT helps in
+    - Track the history of the code.
+    - Collaborate
+- Github- website that allows developers to store and manage their code using git. Yahan dev apna pura code upload kr dete hain.￼

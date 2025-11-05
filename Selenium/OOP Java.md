@@ -1,0 +1,1 @@
+- If i make a program with multiple classes then name of the program can be anything. But if any class is public then that has to be name of the program.

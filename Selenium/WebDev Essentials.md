@@ -1,0 +1,5 @@
+- Index.html is the landing page for the websites
+- \<h1\>Heading\</h1\>
+- \<p\> This is for paragraph\</p\>
+- \<br\>--for breaking the page. Don't need closing brackets.
+- \<!--comment--\>

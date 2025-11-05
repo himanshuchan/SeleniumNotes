@@ -1,0 +1,6 @@
+- Smoke testing- we pick high level scenarios for testing
+- Why do you think bug leakage will come?
+    - Could be because dev has written wrong code.
+    - Someone reverted the changes
+    - User requirement was not conveyed properly
+    - Test cases were not reviewed properly
